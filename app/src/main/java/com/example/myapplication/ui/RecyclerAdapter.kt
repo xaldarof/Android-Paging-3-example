@@ -40,7 +40,4 @@ class RecyclerAdapter : PagingDataAdapter<Data, RecyclerView.ViewHolder>(DiffUti
             return oldItem == newItem
         }
     }
-
-    private var lastPosition = -1
-
 }

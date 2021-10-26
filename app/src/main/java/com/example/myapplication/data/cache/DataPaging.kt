@@ -4,7 +4,7 @@ import androidx.paging.PagingSource
 import androidx.paging.PagingState
 import com.example.myapplication.data.cloud.CloudConstants
 import com.example.myapplication.data.cloud.CloudService
-import com.example.myapplication.data.core.models.Data
+import com.example.myapplication.data.cloud.models.Data
 import java.lang.Exception
 
 class DataPaging(private val cloudService: CloudService,private val cacheRepository: CacheRepository) : PagingSource<Int, Data>() {

@@ -2,10 +2,7 @@ package com.example.myapplication.data.cache.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.example.myapplication.core.DataModel
-import com.example.myapplication.data.core.models.Airline
-import com.example.myapplication.data.core.models.Data
-import java.io.Serializable
+import com.example.myapplication.data.cloud.models.Data
 
 @Entity(tableName = "cache")
 data class DataModelDb(

@@ -1,4 +1,4 @@
-package com.example.myapplication.data.core.models
+package com.example.myapplication.data.cloud.models
 
 import com.example.myapplication.data.cache.models.DataModelDb
 

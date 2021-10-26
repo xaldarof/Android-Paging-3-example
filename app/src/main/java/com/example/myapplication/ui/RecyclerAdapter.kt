@@ -1,14 +1,11 @@
 package com.example.myapplication.ui
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
-import android.view.animation.Animation
-import android.view.animation.AnimationUtils
 import androidx.paging.PagingDataAdapter
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.example.myapplication.data.core.models.Data
+import com.example.myapplication.data.cloud.models.Data
 import com.example.myapplication.databinding.ItemBinding
 
 class RecyclerAdapter : PagingDataAdapter<Data, RecyclerView.ViewHolder>(DiffUtilCallBack) {

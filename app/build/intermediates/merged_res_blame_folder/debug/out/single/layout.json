@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Normal_User\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "C:\\Users\\Normal_User\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Normal_User\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_error.xml",
+        "source": "C:\\Users\\Normal_User\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\layout\\item_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Normal_User\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\waiting_item.xml",
+        "source": "C:\\Users\\Normal_User\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\layout\\waiting_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Normal_User\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Normal_User\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_height">100dp</dimen>
+    <dimen name="normal_size">100dp</dimen>
+    <dimen name="progress_size">50dp</dimen>
+</resources>

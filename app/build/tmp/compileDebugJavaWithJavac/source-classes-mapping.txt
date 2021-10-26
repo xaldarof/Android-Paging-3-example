@@ -1,0 +1,19 @@
+com/example/myapplication/data/cache/AppDatabase_Impl.java
+ com.example.myapplication.data.cache.AppDatabase_Impl
+ com.example.myapplication.data.cache.AppDatabase_Impl$1
+com/example/myapplication/databinding/WaitingItemBinding.java
+ com.example.myapplication.databinding.WaitingItemBinding
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/databinding/ActivityMainBinding.java
+ com.example.myapplication.databinding.ActivityMainBinding
+com/example/myapplication/databinding/ItemErrorBinding.java
+ com.example.myapplication.databinding.ItemErrorBinding
+com/example/myapplication/databinding/ItemBinding.java
+ com.example.myapplication.databinding.ItemBinding
+com/example/myapplication/data/cache/dao/CoreDao_Impl.java
+ com.example.myapplication.data.cache.dao.CoreDao_Impl
+ com.example.myapplication.data.cache.dao.CoreDao_Impl$1
+ com.example.myapplication.data.cache.dao.CoreDao_Impl$2
+ com.example.myapplication.data.cache.dao.CoreDao_Impl$3
+ com.example.myapplication.data.cache.dao.CoreDao_Impl$4

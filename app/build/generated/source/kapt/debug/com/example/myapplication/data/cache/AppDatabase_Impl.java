@@ -91,7 +91,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         final TableInfo _infoCache = new TableInfo("cache", _columnsCache, _foreignKeysCache, _indicesCache);
         final TableInfo _existingCache = TableInfo.read(_db, "cache");
         if (! _infoCache.equals(_existingCache)) {
-          return new RoomOpenHelper.ValidationResult(false, "cache(com.example.myapplication.data.cache.DataModelDb).\n"
+          return new RoomOpenHelper.ValidationResult(false, "cache(com.example.myapplication.data.cache.models.DataModelDb).\n"
                   + " Expected:\n" + _infoCache + "\n"
                   + " Found:\n" + _existingCache);
         }

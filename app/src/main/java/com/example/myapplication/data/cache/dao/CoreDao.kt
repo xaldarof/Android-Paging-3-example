@@ -1,7 +1,7 @@
 package com.example.myapplication.data.cache.dao
 
 import androidx.room.*
-import com.example.myapplication.data.cache.DataModelDb
+import com.example.myapplication.data.cache.models.DataModelDb
 
 @Dao
 interface CoreDao {

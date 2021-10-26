@@ -10,7 +10,7 @@ import androidx.room.SharedSQLiteStatement;
 import androidx.room.util.CursorUtil;
 import androidx.room.util.DBUtil;
 import androidx.sqlite.db.SupportSQLiteStatement;
-import com.example.myapplication.data.cache.DataModelDb;
+import com.example.myapplication.data.cache.models.DataModelDb;
 import java.lang.Class;
 import java.lang.Exception;
 import java.lang.Object;

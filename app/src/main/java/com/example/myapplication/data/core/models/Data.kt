@@ -1,6 +1,6 @@
 package com.example.myapplication.data.core.models
 
-import com.example.myapplication.data.cache.DataModelDb
+import com.example.myapplication.data.cache.models.DataModelDb
 
 data class Data(
     val __v: Int,
@@ -9,7 +9,7 @@ data class Data(
     val name: String? =null,
     val trips: Int){
 
-    fun mapToDbModel():DataModelDb{
+    fun mapToDbModel(): DataModelDb {
         return DataModelDb(__v, _id, "", trips)
     }
 }

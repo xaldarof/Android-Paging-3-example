@@ -1,4 +1,4 @@
-package com.example.myapplication.data.cache
+package com.example.myapplication.data.cache.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

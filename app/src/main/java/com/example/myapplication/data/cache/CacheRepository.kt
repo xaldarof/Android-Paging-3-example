@@ -1,7 +1,7 @@
 package com.example.myapplication.data.cache
 
 import com.example.myapplication.data.cache.dao.CoreDao
-import com.example.myapplication.data.cloud.CloudService
+import com.example.myapplication.data.cache.models.DataModelDb
 
 interface CacheRepository {
 

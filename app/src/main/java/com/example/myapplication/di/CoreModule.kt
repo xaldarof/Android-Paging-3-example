@@ -21,6 +21,7 @@ val cacheModule = module {
     factory<MainViewModel> { MainViewModel(get(), get()) }
 }
 
+
 val cloudModule = module {
     single {
         retrofit2.Retrofit.Builder()

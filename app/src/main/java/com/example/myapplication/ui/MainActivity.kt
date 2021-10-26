@@ -56,7 +56,9 @@ class MainActivity : AppCompatActivity(), KoinComponent {
                 val adapter = PassengerAdapter()
                 binding.rv.adapter = adapter
                 CoroutineScope(Dispatchers.Main).launch {
+
                     adapter.update(viewModel.fetchCacheData().map { it.mapToData() })
+
                     Snackbar.make(binding.root, R.string.connection_eror, Snackbar.LENGTH_LONG)
                         .setBackgroundTint(Color.RED)
                         .show()

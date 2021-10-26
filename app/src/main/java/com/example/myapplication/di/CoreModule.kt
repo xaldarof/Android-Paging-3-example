@@ -3,7 +3,7 @@ package com.example.myapplication.di
 import com.example.myapplication.data.cache.dao.CoreDao
 import com.example.myapplication.data.cloud.CloudConstants
 import com.example.myapplication.data.cloud.CloudService
-import com.example.myapplication.data.vm.MainViewModel
+import com.example.myapplication.vm.MainViewModel
 import com.example.myapplication.data.cache.AppDatabase
 import com.example.myapplication.data.cache.CacheRepository
 import org.koin.android.ext.koin.androidContext

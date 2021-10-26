@@ -1,4 +1,4 @@
-package com.example.myapplication.data.vm
+package com.example.myapplication.vm
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

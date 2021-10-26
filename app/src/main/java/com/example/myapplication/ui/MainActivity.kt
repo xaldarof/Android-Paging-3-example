@@ -70,7 +70,6 @@ class MainActivity : AppCompatActivity(), KoinComponent {
 
         CoroutineScope(Dispatchers.Main).launch {
             viewModel.passengerData.collect {
-                Log.d("res", "Data from VM = $it")
                 adapter.submitData(it)
             }
         }
